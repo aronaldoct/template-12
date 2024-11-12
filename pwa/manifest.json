@@ -1,0 +1,29 @@
+{
+    "name": "Model Page",
+    "short_name": "Model",
+    "description": "Pagina de modelos",
+    "background_color": "#363636",
+    "theme_color": "#363636",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-MX",
+    "icons": [
+        {
+          "src": "../images/pwa/model.png",
+          "sizes": "512x512",
+          "type": "image/png"
+        },
+        {
+            "src": "../images/pwa/model1.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "../images/pwa/model2.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        }
+    ]
+  }
